@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = "AZDropdownMenu"
-s.version          = "1.1.2"
+s.version          = "1.1.3"
 s.summary          = "A simple dropdown menu for iOS written in Swift!"
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ s.homepage         = "https://github.com/Azuritul/AZDropdownMenu"
 # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
 s.license          = 'MIT'
 s.author           = { "Azuritul" => "azuritul@gmail.com" }
-s.source           = { :git => "https://github.com/Azuritul/AZDropdownMenu.git", :tag => s.version.to_s }
+s.source           = { :git => "https://github.com/kiniu/AZDropdownMenu", :tag => s.version.to_s }
 s.social_media_url = 'https://twitter.com/azuritul'
 
 s.platform     = :ios, '8.0'
